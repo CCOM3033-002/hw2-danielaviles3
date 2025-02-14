@@ -44,7 +44,7 @@ int main()
     double denominador3 = denominador2 * denominador1;
     
     //Separe el numerador y denominador enter una "/"
-    cout << "La suma es: " << numerador3 << "/" << denominador3;
+    cout << "La suma es: " << numerador3 << "/" << denominador3 << endl;
   
   return 0;
 }

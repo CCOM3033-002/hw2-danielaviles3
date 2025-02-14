@@ -39,9 +39,9 @@ int main()
     
     /*Para que la suma se desplega como una fracción nececito separar el numerador y denominador de la suma como
     variables individuales */
-    double numerador3 = (numerador1 * denominador2) + (numerador2 * denominador1);
+    double numerador_f= (numerador1 * denominador2) + (numerador2 * denominador1);
    
-    double denominador3 = denominador2 * denominador1;
+    double denominador_f = denominador2 * denominador1;
     
     //Separe el numerador y denominador enter una "/"
     cout << "La suma es: " << numerador3 << "/" << denominador3 << endl;
